@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SparkJava - Heroku - MLab Ejemplo
 
 Aplicación de ejemplo que está configurada para subir a HEROKU y funciona con una base de datos MongoDB (que apunta a mlab.com).
@@ -8,3 +9,6 @@ Solo para fines academicos.
 
 Hernan Quintana
 hquintan@ulima.edu.pe
+=======
+# IntegCont-ejemplo
+>>>>>>> 420053bcffe1c8238f2a98e571dc2e1298d0f351
