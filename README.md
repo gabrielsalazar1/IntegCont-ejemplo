@@ -7,6 +7,8 @@ Configurado para se utilizado en integración continua con Codeship.
 
 Solo para fines academicos.
 
+Cambio para subir a ProdHeroku
+
 Hernan Quintana
 hquintan@ulima.edu.pe
 =======
